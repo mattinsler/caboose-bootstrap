@@ -1,12 +1,12 @@
 # Caboose-Bootstrap
 
-  Installs bootstrap files into a caboose project
+  Installs [bootstrap](http://twitter.github.com/bootstrap/) files into a caboose project
 
 ## Installation
 
   From a caboose project directory
 
-    $ caboose plugin install caboose-boostrap
+    $ caboose plugin install caboose-bootstrap
 
 ## License
 
