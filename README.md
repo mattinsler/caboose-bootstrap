@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mattinsler/caboose-bootstrap.png)](http://travis-ci.org/mattinsler/caboose-bootstrap)
 # Caboose-Bootstrap
 
   Installs [bootstrap](http://twitter.github.com/bootstrap/) files into a caboose project
